@@ -1,5 +1,6 @@
-
-a = 5
-b = 10
-
-print(a+b)
+x = 5
+y = 10
+def f():
+    return x + y
+result = f()
+print(result)
